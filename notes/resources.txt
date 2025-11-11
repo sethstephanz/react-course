@@ -1,0 +1,2 @@
+react.new
+    - browser sandbox for playing with React code

@@ -1,0 +1,4 @@
+New Vite + React project:
+1. npm create vite@latest <project_name>
+2. Will take you thru different prompts. Go with React -> JS for now
+3. npm run dev
